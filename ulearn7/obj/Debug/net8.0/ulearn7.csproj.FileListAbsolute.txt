@@ -1,0 +1,14 @@
+A:\Ulearn\ulearn7\bin\Debug\net8.0\ulearn7.exe
+A:\Ulearn\ulearn7\bin\Debug\net8.0\ulearn7.deps.json
+A:\Ulearn\ulearn7\bin\Debug\net8.0\ulearn7.runtimeconfig.json
+A:\Ulearn\ulearn7\bin\Debug\net8.0\ulearn7.dll
+A:\Ulearn\ulearn7\bin\Debug\net8.0\ulearn7.pdb
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.AssemblyInfoInputs.cache
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.AssemblyInfo.cs
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.csproj.CoreCompileInputs.cache
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.dll
+A:\Ulearn\ulearn7\obj\Debug\net8.0\refint\ulearn7.dll
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.pdb
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ulearn7.genruntimeconfig.cache
+A:\Ulearn\ulearn7\obj\Debug\net8.0\ref\ulearn7.dll
