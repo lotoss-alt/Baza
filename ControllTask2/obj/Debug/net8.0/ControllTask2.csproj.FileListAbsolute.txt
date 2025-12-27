@@ -1,0 +1,14 @@
+A:\ControllTask2\ControllTask2\bin\Debug\net8.0\ControllTask2.exe
+A:\ControllTask2\ControllTask2\bin\Debug\net8.0\ControllTask2.deps.json
+A:\ControllTask2\ControllTask2\bin\Debug\net8.0\ControllTask2.runtimeconfig.json
+A:\ControllTask2\ControllTask2\bin\Debug\net8.0\ControllTask2.dll
+A:\ControllTask2\ControllTask2\bin\Debug\net8.0\ControllTask2.pdb
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.GeneratedMSBuildEditorConfig.editorconfig
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.AssemblyInfoInputs.cache
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.AssemblyInfo.cs
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.csproj.CoreCompileInputs.cache
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.dll
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\refint\ControllTask2.dll
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.pdb
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ControllTask2.genruntimeconfig.cache
+A:\ControllTask2\ControllTask2\obj\Debug\net8.0\ref\ControllTask2.dll
